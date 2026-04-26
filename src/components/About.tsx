@@ -6,9 +6,13 @@ const About = () => {
       <div className="about-me">
         <h3 className="title">About Me</h3>
         <p className="para">
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Hic quis
-          dolores numquam iusto Ratione earum ducimus autem id iure pariatur
-          dolorum quae maiores.
+          AI Fullstack Developer specialising in production-ready AI systems, with end-to-end ownership from data engineering and model design through to containerised deployment and MLOps. Currently at Stifel Europe (Frankfurt), delivering RAG pipelines, multimodal document processors, and scalable model deployments on cloud platforms.
+        </p>
+        <h4 className="subtitle">Core Skills</h4>
+        <p className="para">
+          Python, SQL, C/C++, Data Structures & Algorithms, PyTorch, TensorFlow,
+          LangChain, LangGraph, FastAPI, Docker, AWS, ECS,
+          MLOps, CI/CD
         </p>
       </div>
     </div>

@@ -1,65 +1,40 @@
-# My Portfolio Website - Overview 🚀
+# Parth Modi — Portfolio Website
 
-This repository contains the open-source version of my personal portfolio website.  
-Feel free to explore the code and use it for learning and inspiration.
-
----
-
-## ⚠️ Usage Notice
-
-This project is shared for learning purposes only.
-
-Please do NOT:
-- Clone or replicate the full website or design
-- Repost it with minor content changes
-- Use this project for commercial/client work
-- Create tutorials or content using this exact project
-
-If you use parts of the code, you must provide proper credit linking back to the original repository.
-
-Build your own version — don’t just copy.
-
-— Moncy Yohannan
+This repository contains the source for my personal portfolio site. It showcases projects, publications, and professional experience related to AI, MLOps, and full-stack ML engineering.
 
 ---
 
-## 🛠️ Instructions
+## Summary
 
-I have modified the GSAP Club plugins using trial versions.  
-⚠️ Note: Trial plugins cannot be used for production or hosting.
-
-For official GSAP Club plugins, refer here:  
-https://gsap.com/docs/v3/Installation/
+AI Fullstack Developer experienced in building production-ready AI agents, RAG pipelines, and containerized model deployments. Research background in transformers and time-series forecasting (IEEE DSP 2023).
 
 ---
 
-## ⚙️ Tech Stack
+## Contact
 
-React • TypeScript • GSAP • Three.js • WebGL • HTML • CSS • JavaScript
-
----
-
-## 🎨 Assets Usage
-
-Some 3D assets included in this repository are free to use for learning purposes.
-
-However:
-
-- The original 3D avatar used on my live portfolio is NOT included in this repository
-- That avatar is a custom asset created over ~1 month
-- It is not open source and not available for reuse
-
-Any usage, extraction, or redistribution of that avatar from my live website is strictly prohibited.
+- Email: parthmodi071997@gmail.com
+- Phone: +49 15776233979
+- LinkedIn: (add your profile link)
+- GitHub: (add your profile link)
 
 ---
 
-![Protfolio-Preview](https://github.com/user-attachments/assets/3c4557e7-6392-4928-b8a9-7b2476ef4edd)
+## Tech & Tools
+
+Python • PyTorch • TensorFlow • LangChain • LangGraph • FastAPI • Docker • Azure (AKS, ML Studio) • MLOps • CI/CD
 
 ---
 
-## 📄 License
+## Selected Projects
 
-This project is licensed under the Personal Portfolio License (PPL) v1.0.
+- Self-attention from scratch — research and implementation
+- LLM Chatbot (LangChain + FastAPI) — modular RAG chatbot
+- Time Series Forecasting — IEEE DSP 2023 publication
+- Multimodal RAG pipeline — document processing and vector storage
 
-See the LICENSE file for full details
+---
+
+## License
+
+See the LICENSE file for license details.
 

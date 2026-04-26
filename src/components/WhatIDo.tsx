@@ -90,21 +90,16 @@ const WhatIDo = () => {
               <h3>DEVELOP</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae.
+                I build AI that runs in production. Financial recommendation agents, multimodal document processors, Text-to-SQL chatbots — shipped at scale, not just prototyped
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">JavaScript</div>
-                <div className="what-tags">TypeScript</div>
-                <div className="what-tags">Three.js</div>
-                <div className="what-tags">React</div>
-                <div className="what-tags">Css</div>
-                <div className="what-tags">Node.js</div>
-                <div className="what-tags">Next.js</div>
-                <div className="what-tags">Express.js</div>
-                <div className="what-tags">PHP</div>
-                <div className="what-tags">MySql</div>
+                <div className="what-tags">FastAPI</div>
+                  <div className="what-tags">AWS Bedrock</div>
+                  <div className="what-tags">Kubernetes (EKS)</div>
+                  <div className="what-tags">LangSmith</div>
+                  <div className="what-tags">Langfuse</div>
+                  <div className="what-tags">Agentcore</div>
               </div>
               <div className="what-arrow"></div>
             </div>
@@ -131,19 +126,19 @@ const WhatIDo = () => {
               <h3>DESIGN</h3>
               <h4>Description</h4>
               <p>
-                Lorem ipsum dolor sit amet consectetur adipisicing elit. Quas
-                quia aliquid laboriosam ducimus sit molestiae
+                Every pipeline starts with a problem, not a tool. I map data flows, define retrieval boundaries, and architect agent graphs that are explainable, testable, and scalable.
               </p>
               <h5>Skillset & tools</h5>
               <div className="what-content-flex">
-                <div className="what-tags">Blender</div>
-                <div className="what-tags">Zbrush</div>
-                <div className="what-tags">UI Design</div>
-                <div className="what-tags">Motion</div>
-                <div className="what-tags">Rigging</div>
-                <div className="what-tags">3D Animation</div>
-                <div className="what-tags">Character Design</div>
-                <div className="what-tags">Modelling</div>
+                <div className="what-tags">LangGraph</div>
+                  <div className="what-tags">LangChain</div>
+                  <div className="what-tags">RAG Design</div>
+                  <div className="what-tags">Agent Topology</div>
+                  <div className="what-tags">Vector Stores</div>
+                  <div className="what-tags">Multimodal Pipelines</div>
+                  <div className="what-tags">PyTorch</div>
+                  <div className="what-tags">Vision Transformers</div>
+                  <div className="what-tags">System Architecture</div>
               </div>
               <div className="what-arrow"></div>
             </div>
